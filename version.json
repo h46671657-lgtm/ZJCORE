@@ -1,0 +1,8 @@
+{
+  "version": "3.3.1",
+  "changelog": [
+    "&aAdded /check-update command",
+    "&eFixed team chat colors",
+    "&cRemoved the old cart nerf"
+  ]
+}
